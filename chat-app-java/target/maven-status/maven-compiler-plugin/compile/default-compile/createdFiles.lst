@@ -1,0 +1,5 @@
+com\multiroomchat\config\WebSocketConfig.class
+com\multiroomchat\controller\ChatController.class
+com\multiroomchat\model\MessageType.class
+com\multiroomchat\model\ChatMessage.class
+com\multiroomchat\ChatApplication.class
